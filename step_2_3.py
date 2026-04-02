@@ -1,4 +1,3 @@
-from gc import is_finalized
 import json
 from pathlib import Path
 from step_2_1 import OUT_DIR
